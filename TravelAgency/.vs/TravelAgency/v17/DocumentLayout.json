@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\travelagency_kolak--main\\travelagency\\wwwroot\\js\\login_and_registration_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|solutionrelative:wwwroot\\js\\login_and_registration_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\travelagency_kolak--main\\travelagency\\wwwroot\\css\\media_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|solutionrelative:wwwroot\\css\\media_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\travelagency_kolak--main\\travelagency\\wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|solutionrelative:wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\travelagency_kolak--main\\travelagency\\wwwroot\\js\\shared_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|solutionrelative:wwwroot\\js\\shared_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\travelagency_kolak--main\\travelagency\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\travelagency_kolak--main\\travelagency\\views\\shared\\_loginregistrationpartial.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFCA6556-2F92-4C81-86A8-CA85A752B299}|TravelAgency.csproj|solutionrelative:views\\shared\\_loginregistrationpartial.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login_and_registration_script.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\wwwroot\\js\\login_and_registration_script.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\login_and_registration_script.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\wwwroot\\js\\login_and_registration_script.js",
+              "RelativeToolTip": "wwwroot\\js\\login_and_registration_script.js",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAwwJcAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-11T18:11:31.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shared_script.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\wwwroot\\js\\shared_script.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\shared_script.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\wwwroot\\js\\shared_script.js",
+              "RelativeToolTip": "wwwroot\\js\\shared_script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-11T17:54:09.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shared.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\wwwroot\\css\\shared.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\shared.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\wwwroot\\css\\shared.css",
+              "RelativeToolTip": "wwwroot\\css\\shared.css",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAM0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-11T17:41:24.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "media_style.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\wwwroot\\css\\media_style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\media_style.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\wwwroot\\css\\media_style.css",
+              "RelativeToolTip": "wwwroot\\css\\media_style.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-11T17:30:20.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginRegistrationPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\Views\\Shared\\_LoginRegistrationPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginRegistrationPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\Views\\Shared\\_LoginRegistrationPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginRegistrationPartial.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T16:20:46.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency_Kolak--main\\TravelAgency\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAqwFAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T16:13:33.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+﻿<div class="container-login-registration">
+    <div class="block-container">
+        <div class="block">
+            <section class="block_item block-item">
+                <h2 class="block-item_title">У вас уже есть аккаунт?</h2>
+                <button class="block-item_btn signin-btn">Войти</button>
+            </section>
+
+            <section class="block_item block-item">
+                <h2 class="block-item_title">У вас нет аккаунта?</h2>
+                <button class="block-item_btn signup-btn">Зарегистрироваться</button>
+            </section>
+        </div>
+
+        <div class="form-box">
+            <form class="form form_signin">
+                <h3 class="form_title">Вход</h3>
+
+                <label id="email_signin">
+                    <input type="text" placeholder="" name="email" />
+                    <span>Почта</span>
+                </label>
+
+                <label id="password_signin">
+                    <input type="password" placeholder="" name="password" />
+                    <span>Пароль</span>
+                </label>
+
+                <button type="submit" class="form-btn form_btn_signin">Войти</button>
+                <div id="error-messages-signin"></div>
+            </form>
+
+            <form class="form form_signup">
+                <h3 class="form_title">Регистрация</h3>
+
+                <label id="login">
+                    <input type="text" placeholder="" name="login" />
+                    <span>Логин</span>
+                </label>
+
+                <label id="email_signup">
+                    <input type="text" placeholder="" name="email" />
+                    <span>Почта</span>
+                </label>
+
+                <label id="password_signup">
+                    <input type="password" placeholder="" name="password" />
+                    <span>Пароль</span>
+                </label>
+
+                <label id="confirm_password">
+                    <input type="password" placeholder="" name="confirm_password" />
+                    <span>Подтвердите пароль</span>
+                </label>
+
+                <button type="submit" class="form-btn form_btn_signup">Зарегистрироваться</button>
+                <div id="error-messages-signup"></div>
+            </form>
+        </div>
+    </div>
+    <div class="overlay"></div>
+</div>
